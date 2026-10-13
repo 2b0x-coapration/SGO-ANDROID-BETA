@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#101014</color><color name="card">#1A1A21</color><color name="text">#F2F2F7</color>
+    <color name="sub">#8E8E9A</color><color name="accent">#A596F0</color><color name="pill">#25252E</color>
+    <color name="line">#2A2A33</color><color name="track">#3A3A44</color>
+</resources>
